@@ -83,15 +83,15 @@ It is very important to know the impact of ASE program after it is implemented. 
 
 - 1. It has been observed during the Part 1 of this project that overall, the speed violation has been decreased from 2014-2019
 
-   ![IP_FV_overall_trend_speed_violations.PNG](attachment:IP_FV_overall_trend_speed_violations.PNG)
+   ![image.png](IP_Viz1.PNG)
 
 - 2. The montlhy speed violation trend shows that speed violation number start increasing in the month of July and gradually decrease till December
 
-    ![image.png](attachment:image.png)
+    ![image.png](IP_Viz4.PNG)
 
 - 3. Maximum speed violations occur on Fridays of almost all months
 
-    ![image.png](attachment:image.png)
+    ![image.png](IP_Viz5.PNG)
     
     
     
