@@ -111,7 +111,7 @@ The first question came to my mind is the impact of speed violation trend on the
 
 ##### Visualization 1
 
-![image.png](attachment:image.png)
+![image.png](IP_FV_1stinsight.PNG)
 
 #### Observation:
 -  The graph shows the number of crashes and number of Violation by zipcode.
@@ -131,7 +131,7 @@ Since the installing cameras adds costs to the city, I wanted to analyze whether
 ##### Visualization 2
 
 
-![image.png](attachment:image.png)
+![image.png](IP_FV_2nd_insight.PNG)
 
 #### Observation:
 
@@ -148,7 +148,7 @@ I am interested to analyze this area  as I think red light violation is one of t
 
 ##### Visualization 3
 
-![image.png](attachment:image.png)
+![image.png](IP_FV_3rdinsight.PNG)
 
 #### Observation:
 
