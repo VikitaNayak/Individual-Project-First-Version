@@ -28,7 +28,7 @@ Reference: https://www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safet
 
 I tried to  look for the dataset giving infomration about the number of accidents/crashes in the areas where the speed camera have been installed. Because to measure the effectivity of the ASE program it is important to analyze whether speed violation has any impact on accidents. The main aim of the ASE program is to protect children and other pedestrians by reminding the driver to slow down their speeds and avoid accidents. 
 
-Hence, I thought it is important to mergr the traffic crash dataset with the speed camera violation dataset as I mentioned in my previous submission.
+Hence, I thought it is important to merge the traffic crash dataset with the speed camera violation dataset as I mentioned in my previous submission.
 
 #### 2. Dataset used for the analysis
 
@@ -51,7 +51,7 @@ Hence, I thought it is important to mergr the traffic crash dataset with the spe
     - This dataset reflects the daily volume of violations created by the City of Chicago Red Light Program for each camera. 
     - The data reflects violations that occurred from July 1, 2014 until present, minus the most recent 14 days. 
     - This data may change due to occasional time lags between the capturing of a potential violation and the processing and determination of a violation
-    -
+   
     
 - ##### Reason to use these datasets:
 It is very important to know the impact of ASE program after it is implemented. The main aim of this program is to reduce speed violations and accident occuring due to speed in the Child Safe zones. By using the speed violation dataset, we will know the number of violations at different areas. The traffic crashes dataset contains infomration about the crashes occured in different areas. By using both datasets, we will know the impact of the ASE program like whether the speed violations has decreased over the period of time and accidents are also decreasing for a particular area.
