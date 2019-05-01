@@ -140,7 +140,7 @@ Since the installing cameras adds costs to the city, I wanted to analyze whether
 - It clearly shows that there is an impact of more camera installation under ASE program
 - The drivers are now more aware of the ASE program and are driving carefully to avoid the speed violation tickets
 
-##### Insights: This graph shows how effective the ASE program is where adding the new cameras has reduced the number of speed violation and which can reduce the number of crashes. Also, during year 2015 to 2017, though the camera number were constant, the number of speed violation kept decreasing. One can onfer that during the initial phase of the camera installation, not many people were aware of this system but with time, they became aware of this system and hence the speed violation decreases though the speed camera instalation number were constant for some period
+##### Insights: This graph shows how effective the ASE program is where adding the new cameras has reduced the number of speed violation and which can reduce the number of crashes. Also, during year 2015 to 2017, though the camera number were constant, the number of speed violation kept decreasing. One can infer that during the initial phase of the camera installation, not many people were aware of this system but with time, they became aware of this system and hence the speed violation decreases though the speed camera instalation number were constant for some period
 
 #### 4.3 Does Speed violation also causes red light violation?
 
@@ -164,7 +164,7 @@ With this analysis, we found 3 interesting insights
 
 - There is an impact of speed camera violation number on the number of crashes in a particular area
 - The ASE program awarness has increased among the drivers from 2014 to 2019 reducing number of speed violations
-- One of the major causes of crashes is red light violation captured by red light program. Red light violation is relatedto the speed violation. As the speed camera violation decreases, thereis a decrease in red light violations.
+- One of the major causes of crashes is red light violation captured by red light program. Red light violation is related to the speed violation. As the speed camera violation decreases, there is a decrease in red light violations.
 
 #### Tableau Public Link
 
